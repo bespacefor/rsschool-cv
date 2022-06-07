@@ -24,4 +24,12 @@
 - Engineer, Construction Faculty, BelSUT (2010-2015);
 - Master of Engineering Science, BelSUT (2015-2017).
 
+## **Projects:**
+
+- [CSS-variables & JS](https://bespacefor.github.io/css-variables-and-js/);
+- [Drum Kit](https://bespacefor.github.io/drum-kit/);
+- [Fun with HTML5 Canvas](https://bespacefor.github.io/fun-with-html5-canvas/);
+- [Video speed controller](https://bespacefor.github.io/video-speed-controller/);
+- [Guess a number](https://bespacefor.github.io/guess-a-number/).
+
 ## **English: B1**.
